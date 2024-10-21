@@ -1,4 +1,4 @@
-#Projet de Base de Données Oracle
+# Projet Base De Donnée
 Membres du Groupe
     - Ilyan Lalmassi
     - César Charbey
