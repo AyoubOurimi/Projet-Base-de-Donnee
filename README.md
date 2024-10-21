@@ -15,7 +15,7 @@ Le projet est divisé en deux phases :
 ## Organisation du Projet
 
 ### Phase 1 : Analyse et Modélisation
-- **Application choisie :** [Indiquer la thématique choisie pour le projet]
+- **Application choisie :** Base de donnée représentant une platforme multimedia du type Spotify
 - **Cahier des charges :** Définition des besoins fonctionnels de l'application.
 - **Modélisation :** Conception du schéma Entité/Association (E/A).
 - **Contraintes d'intégrité :** Définition des contraintes complexes en langage naturel.
