@@ -6,11 +6,11 @@
 ## Description du Projet
 Ce projet a pour objectif de construire une base de données relationnelle sous Oracle afin de mettre en pratique les concepts vus en cours et d'implémenter les différentes fonctionnalités standard d'un SGBD.
 
-# Le projet se divise en deux phases :
+## Le projet se divise en deux phases :
 
 ### Phase 1 : Analyse des besoins et modélisation de l'application choisie.
 ### Phase 2 : Implémentation du schéma relationnel en SQL sous Oracle, gestion des contraintes d'intégrité, des vues, des requêtes et des triggers.
-Organisation du Projet
+## Organisation du Projet
 ### Phase 1 : Analyse et Modélisation
 Choix de l'application : Nous avons choisi de modéliser une [thématique spécifique, à définir avec votre groupe].
 Cahier des charges : Cette phase inclut la rédaction des besoins, la conception du schéma Entité/Association (E/A), la définition des contraintes d'intégrité en langage naturel, et la création des vues et des requêtes complexes.
