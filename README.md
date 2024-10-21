@@ -1,5 +1,5 @@
 # Projet Base De Donnée
- 
+## Membres du Groupe
     - Ilyan Lalmassi
     - César Charbey
     - Ourimi Ayoub
@@ -11,11 +11,11 @@ Ce projet a pour objectif de construire une base de données relationnelle sous 
 ## Phase 1 : Analyse des besoins et modélisation de l'application choisie.
 ## Phase 2 : Implémentation du schéma relationnel en SQL sous Oracle, gestion des contraintes d'intégrité, des vues, des requêtes et des triggers.
 Organisation du Projet
-#Phase 1 : Analyse et Modélisation
+### Phase 1 : Analyse et Modélisation
 Choix de l'application : Nous avons choisi de modéliser une [thématique spécifique, à définir avec votre groupe].
 Cahier des charges : Cette phase inclut la rédaction des besoins, la conception du schéma Entité/Association (E/A), la définition des contraintes d'intégrité en langage naturel, et la création des vues et des requêtes complexes.
 Livrable : Un rapport en français décrivant les besoins, le schéma E/A et les contraintes.
-##Phase 2 : Implémentation
+### Phase 2 : Implémentation
 Base de données : Implémentation du schéma relationnel en SQL.
 Données : Création et chargement massif de données cohérentes avec le schéma de la base.
 Manipulation des données : Écriture des requêtes SQL complexes basées sur les besoins définis en Phase 1.
