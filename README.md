@@ -3,7 +3,7 @@
 ## Membres du Groupe
 - **Ilyan Lalmassi**
 - **César Charbey**
-- **Ourimi Ayoub**
+- **Ayoub Ourimi**
 
 ## Description du Projet
 Le but de ce projet est de construire une base de données relationnelle sous Oracle afin de mettre en pratique les concepts vus en cours et d'utiliser les fonctionnalités d'un SGBD.
@@ -15,7 +15,7 @@ Le projet est divisé en deux phases :
 ## Organisation du Projet
 
 ### Phase 1 : Analyse et Modélisation
-- **Application choisie :** Base de donnée représentant une platforme multimedia du type Spotify
+- **Application choisie :** Base de donnée représentant une platforme multimedia du type Spotify.
 - **Cahier des charges :** Définition des besoins fonctionnels de l'application.
 - **Modélisation :** Conception du schéma Entité/Association (E/A).
 - **Contraintes d'intégrité :** Définition des contraintes complexes en langage naturel.
